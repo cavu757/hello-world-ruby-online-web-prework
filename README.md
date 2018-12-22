@@ -22,6 +22,8 @@ You will need to create a text file called `hello_world.rb` within the lab's dir
 
 ### Writing Code
 
+touch hello_world.rb
+
 In the file `hello_world.rb` that you created, you need to write a single line of code that prints the string Hello World! to your terminal. To print in Ruby, you need to use the method `puts` which is short for "out**put s**tring." And because Hello World! is a string, you need to surround your text with `""`.
 
 File: `hello_world.rb`
